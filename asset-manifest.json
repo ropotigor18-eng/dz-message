@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dz-message/static/css/main.e8d82c67.css",
+    "main.js": "/dz-message/static/js/main.c81a84ba.js",
+    "static/js/835.24f094b5.chunk.js": "/dz-message/static/js/835.24f094b5.chunk.js",
+    "static/media/avatar.png": "/dz-message/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/dz-message/index.html",
+    "main.e8d82c67.css.map": "/dz-message/static/css/main.e8d82c67.css.map",
+    "main.c81a84ba.js.map": "/dz-message/static/js/main.c81a84ba.js.map",
+    "835.24f094b5.chunk.js.map": "/dz-message/static/js/835.24f094b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8d82c67.css",
+    "static/js/main.c81a84ba.js"
+  ]
+}
