@@ -1,0 +1,69 @@
+.friendMessage {
+    padding-top: 70px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+}
+
+.friendImageAndText {
+    display: flex;
+    align-items: center;
+
+    justify-content: flex-start;
+    gap: 50px;
+
+}
+
+.friendImageAndText img {
+    width: 100px;
+}
+
+.friendText {
+    background-color: gray;
+    opacity: 0.8;
+    color: black;
+    width: 600px;
+    height: auto;
+    padding: 10px;
+
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.friendText:after {
+    content: '';
+    position: absolute;
+    left: -29.5px; /* Длинный катет */
+    bottom: -7.5px;
+    transform: translateY(-50%);
+    width: 30px; /* Длинный катет */
+    height: 15px; /* Короткий катет - НЕ РАВНЫ! */
+    background-color: gray;
+    opacity: 0.8;
+    clip-path: polygon(0 100%, 100% 100%, 100% 0);
+}
+
+.friendName {
+    font-size: 20px;
+
+}
+
+.friendMessageText {
+    font-size: 18px;
+    white-space: pre-wrap; /* Сохраняет пробелы и переносы, но переносит по словам */
+    word-wrap: break-word; /* Переносит длинные слова */
+    word-break: break-word; /* Дополнительное свойство для переноса */
+    margin: 0;
+    line-height: 1.4;
+}
+
+.friendTime {
+    padding-left: 26px;
+}

@@ -1,0 +1,24 @@
+.App {
+    --header_height: 60px;
+}
+
+.hw {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.hwTitle {
+    font-size: 40px;
+    margin-left: 60px;
+    padding-top: 30px;
+}
+
+.hwTitle::after {
+    content: ' ';
+    width: 100%;
+    height: 2px;
+    margin-left: -60px;
+    margin-top: 20px;
+    display: block;
+    background-color: gray;
+}
