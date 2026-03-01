@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dz-message/static/css/main.e0c86b7e.css",
-    "main.js": "/dz-message/static/js/main.097f6881.js",
+    "main.js": "/dz-message/static/js/main.d6c88137.js",
     "static/js/835.faf8928f.chunk.js": "/dz-message/static/js/835.faf8928f.chunk.js",
     "static/media/avatar.png": "/dz-message/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/200.svg": "/dz-message/static/media/200.2b4de1542921864a6ecb8c3301ea4670.svg",
@@ -15,11 +15,11 @@
     "index.html": "/dz-message/index.html",
     "static/media/burger.svg": "/dz-message/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
     "main.e0c86b7e.css.map": "/dz-message/static/css/main.e0c86b7e.css.map",
-    "main.097f6881.js.map": "/dz-message/static/js/main.097f6881.js.map",
+    "main.d6c88137.js.map": "/dz-message/static/js/main.d6c88137.js.map",
     "835.faf8928f.chunk.js.map": "/dz-message/static/js/835.faf8928f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0c86b7e.css",
-    "static/js/main.097f6881.js"
+    "static/js/main.d6c88137.js"
   ]
 }
